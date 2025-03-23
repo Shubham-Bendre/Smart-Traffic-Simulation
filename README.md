@@ -22,7 +22,7 @@ This is a **Traffic Intersection Simulation** built using **Pygame**. The simula
 2. Navigate to the project directory.
 3. Run the simulation:
    ```bash
-   python traffic_simulation.py
+   python game.py
    ```
 4. Watch the simulation and check the terminal for live stats.
 
