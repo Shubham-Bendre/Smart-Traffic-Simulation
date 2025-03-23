@@ -26,16 +26,18 @@ This is a **Traffic Intersection Simulation** built using **Pygame**. The simula
    ```
 4. Watch the simulation and check the terminal for live stats.
 
+## 📸 Screenshot
+
+### 1️⃣ Simulation
+![Simulation](./screenshots/sim.png)
+
 ## 🎥 Demo
-A video demonstration is available **[here](#)** (Add link if available).
+A video demonstration is available **[here](#)**.
 
 ## 🔮 Future Enhancements
 - 🤖 AI-based **Adaptive Signal Control** for smarter traffic flow.
 - 🛣️ Improved vehicle pathfinding for more realistic movement.
 - 🌍 Integration with real-world traffic data for research purposes.
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ---
 Let me know if you need any changes! 🚥
