@@ -32,7 +32,7 @@ This is a **Traffic Intersection Simulation** built using **Pygame**. The simula
 ![Simulation](./screenshots/sim.png)
 
 ## 🎥 Demo
-A video demonstration is available **[here](#https://github.com/Shubham-Bendre/Smart-Traffic-Simulation/blob/main/screenshots/demo.mp4)**.
+A video demonstration is available **![here](https://github.com/Shubham-Bendre/Smart-Traffic-Simulation/blob/main/screenshots/Demo.gif)**.
 
 
 ## 🔮 Future Enhancements
